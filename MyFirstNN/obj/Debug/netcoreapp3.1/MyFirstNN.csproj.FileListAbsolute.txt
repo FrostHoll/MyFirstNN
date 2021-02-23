@@ -1,0 +1,13 @@
+C:\Users\almaz\source\repos\MyFirstNN\MyFirstNN\bin\Debug\netcoreapp3.1\MyFirstNN.exe
+C:\Users\almaz\source\repos\MyFirstNN\MyFirstNN\bin\Debug\netcoreapp3.1\MyFirstNN.deps.json
+C:\Users\almaz\source\repos\MyFirstNN\MyFirstNN\bin\Debug\netcoreapp3.1\MyFirstNN.runtimeconfig.json
+C:\Users\almaz\source\repos\MyFirstNN\MyFirstNN\bin\Debug\netcoreapp3.1\MyFirstNN.runtimeconfig.dev.json
+C:\Users\almaz\source\repos\MyFirstNN\MyFirstNN\bin\Debug\netcoreapp3.1\MyFirstNN.dll
+C:\Users\almaz\source\repos\MyFirstNN\MyFirstNN\bin\Debug\netcoreapp3.1\MyFirstNN.pdb
+C:\Users\almaz\source\repos\MyFirstNN\MyFirstNN\obj\Debug\netcoreapp3.1\MyFirstNN.csprojAssemblyReference.cache
+C:\Users\almaz\source\repos\MyFirstNN\MyFirstNN\obj\Debug\netcoreapp3.1\MyFirstNN.AssemblyInfoInputs.cache
+C:\Users\almaz\source\repos\MyFirstNN\MyFirstNN\obj\Debug\netcoreapp3.1\MyFirstNN.AssemblyInfo.cs
+C:\Users\almaz\source\repos\MyFirstNN\MyFirstNN\obj\Debug\netcoreapp3.1\MyFirstNN.csproj.CoreCompileInputs.cache
+C:\Users\almaz\source\repos\MyFirstNN\MyFirstNN\obj\Debug\netcoreapp3.1\MyFirstNN.dll
+C:\Users\almaz\source\repos\MyFirstNN\MyFirstNN\obj\Debug\netcoreapp3.1\MyFirstNN.pdb
+C:\Users\almaz\source\repos\MyFirstNN\MyFirstNN\obj\Debug\netcoreapp3.1\MyFirstNN.genruntimeconfig.cache
