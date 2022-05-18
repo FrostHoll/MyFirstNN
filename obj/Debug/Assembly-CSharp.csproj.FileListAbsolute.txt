@@ -1,0 +1,2 @@
+D:\Unity Games\NeuralNetwork\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\Unity Games\NeuralNetwork\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

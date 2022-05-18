@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - .collabignore
+    - Assets/Resources.meta
+    - Assets/Resources/Data.meta
+    - Assets/Resources/Data/data.csv
+    - Assets/Resources/Data/data.csv.meta
+    - Assets/Resources/Elements.meta
+    - Assets/Resources/Elements/Paper.asset
+    - Assets/Resources/Elements/Paper.asset.meta
+    - Assets/Resources/Elements/Rock.asset
+    - Assets/Resources/Elements/Rock.asset.meta
+    - Assets/Resources/Elements/Scissors.asset
+    - Assets/Resources/Elements/Scissors.asset.meta
+    - Assets/Resources/Prefabs.meta
+    - Assets/Resources/Prefabs/Bias.prefab
+    - Assets/Resources/Prefabs/Bias.prefab.meta
+    - Assets/Resources/Prefabs/Line.prefab
+    - Assets/Resources/Prefabs/Line.prefab.meta
+    - Assets/Resources/Prefabs/Neuron.prefab
+    - Assets/Resources/Prefabs/Neuron.prefab.meta
+    - Assets/Resources/Prefabs/NeuronLevel.prefab
+    - Assets/Resources/Prefabs/NeuronLevel.prefab.meta
+    - Assets/Resources/Prefabs/NeuronNet.prefab
+    - Assets/Resources/Prefabs/NeuronNet.prefab.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/Demo.unity
+    - Assets/Scenes/Demo.unity.meta
+    - Assets/Scenes/Game.unity
+    - Assets/Scenes/Game.unity.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/AIManager.cs
+    - Assets/Scripts/AIManager.cs.meta
+    - Assets/Scripts/Analyzer.cs
+    - Assets/Scripts/Analyzer.cs.meta
+    - Assets/Scripts/Core.meta
+    - Assets/Scripts/Core/Neuron.cs
+    - Assets/Scripts/Core/Neuron.cs.meta
+    - Assets/Scripts/Core/NeuronLevel.cs
+    - Assets/Scripts/Core/NeuronLevel.cs.meta
+    - Assets/Scripts/Core/NeuronNet.cs
+    - Assets/Scripts/Core/NeuronNet.cs.meta
+    - Assets/Scripts/DataManagment.meta
+    - Assets/Scripts/DataManagment/DataConstruct.cs
+    - Assets/Scripts/DataManagment/DataConstruct.cs.meta
+    - Assets/Scripts/DataManagment/FileManager.cs
+    - Assets/Scripts/DataManagment/FileManager.cs.meta
+    - Assets/Scripts/DataManagment/TextLog.cs
+    - Assets/Scripts/DataManagment/TextLog.cs.meta
+    - Assets/Scripts/DataManagment/TrainSet.cs
+    - Assets/Scripts/DataManagment/TrainSet.cs.meta
+    - Assets/Scripts/Element.cs
+    - Assets/Scripts/Element.cs.meta
+    - Assets/Scripts/Manager.cs
+    - Assets/Scripts/Manager.cs.meta
+    - Assets/Scripts/Player.cs
+    - Assets/Scripts/Player.cs.meta
+    - Assets/Scripts/PlayfieldScript.cs
+    - Assets/Scripts/PlayfieldScript.cs.meta
+    - Assets/Scripts/Program.cs
+    - Assets/Scripts/Program.cs.meta
+    - Assets/Scripts/Trainer.cs
+    - Assets/Scripts/Trainer.cs.meta
+    - Assets/Scripts/VisualStructure.meta
+    - Assets/Scripts/VisualStructure/Line.cs
+    - Assets/Scripts/VisualStructure/Line.cs.meta
+    - Assets/Scripts/VisualStructure/NeuronLevelVisual.cs
+    - Assets/Scripts/VisualStructure/NeuronLevelVisual.cs.meta
+    - Assets/Scripts/VisualStructure/NeuronNetVisual.cs
+    - Assets/Scripts/VisualStructure/NeuronNetVisual.cs.meta
+    - Assets/Scripts/VisualStructure/NeuronVisual.cs
+    - Assets/Scripts/VisualStructure/NeuronVisual.cs.meta
+    - Assets/Sprites.meta
+    - Assets/Sprites/paper.png
+    - Assets/Sprites/paper.png.meta
+    - Assets/Sprites/rock.png
+    - Assets/Sprites/rock.png.meta
+    - Assets/Sprites/scissors.png
+    - Assets/Sprites/scissors.png.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/TimeManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VFXManager.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
